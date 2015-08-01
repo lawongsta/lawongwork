@@ -1,0 +1,36 @@
+
+h1 {
+	font-size:40px;
+	color: #96b1ac;
+	font-family: Cabin;
+}
+
+h2 {
+	font-size:25px;
+	font-style: bold;
+	color: #525162;
+	margin left: 15px;
+	margin-right: -15px;
+	padding: 15px;
+	border: 2px solid #96b1ac;
+}
+
+p {
+	color: #525162;
+	margin-left: 15px;
+}
+
+ul {
+	font-size:15px;
+}
+
+li {
+	font-size:15px;
+	color: #525162
+}
+
+blockquote em{
+	background-color: transparent;
+	color: #000;
+	font-weight: bold;
+}
