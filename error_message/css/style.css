@@ -1,0 +1,63 @@
+
+#notification {
+	padding: 10px 20px;
+	border: 0;
+	margin: 10px;
+	background-color: #E3F3F8;
+	font-size: 15px;
+	color:#525162;
+	font-family: Raleway;
+}
+
+.message {
+	padding: 10px 20px;
+	border: 1px solid gray;
+	margin: 10px;
+	background-color: #BCDED7;
+}
+
+div.message.success {
+	background-color: #F5F6CE;
+	border:.5px;
+	margin:20px;
+	padding:15px;
+
+}
+
+h1 {
+	font-family: Raleway;
+	padding: 10px 20px;
+	margin: 10px;
+}
+
+h2 {
+	font-family: Raleway;
+	padding: 10px 20px;
+	margin: 10px;
+}
+
+p {
+	font-family: Raleway;
+	padding: 10px 20px;
+	margin: 10px;
+}
+
+div {
+	font-family: Raleway;
+	padding: 10px 20px;
+	margin: 10px;
+}
+
+div.message.critical{
+	background-color: #E6CDF7;
+	padding: 10px;
+	margin: 10px;
+	border: 10px;
+}
+
+.critical {
+	font-weight: bold;
+
+}
+}
+	
