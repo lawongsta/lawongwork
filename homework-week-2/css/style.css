@@ -49,11 +49,23 @@ body {
      color: #000;
      font-size: 12px;
      line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
+     font-family: 'Open Sans', sans-serif;
      
 }
 
 
+/******************************************
+/* GLOBALS
+/*******************************************/
+
+button{ 
+  background-color: #f9e42e;
+  padding: 6px 20px;
+  border:none;
+  border-radius: 3px;
+  font-size: 16px;
+  font-weight: 
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
